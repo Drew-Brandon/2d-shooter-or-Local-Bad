@@ -7,6 +7,9 @@ The goal for this project was to make a top-down survival horror game akin to so
 For context, survival horror is a game genre in which players are tasked with using their wits to overcome various horror themed scenarios.
 Though, I definitely would not call this game scary.
 
+This project was a major jump for me, as it had a significantly larger scope when compared to my previous works.
+It was a lot of fun thinking of how to do design various systems for this and while a lot of it isn't perfect, it still proved a great learning opportunity.
+
 # How to Run
 One should be able to open this project by installing any version of Godot beyond version 4.6: https://godotengine.org/.
 However, it is recommended that one uses Godot 4.6 or 4.7 since later versions may cause issues.
