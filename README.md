@@ -11,7 +11,7 @@ This project was a major jump for me, as it had a significantly larger scope whe
 It was a lot of fun thinking of how to do design various systems for this and while a lot of it isn't perfect, it still proved a great learning opportunity.
 
 # How to Run
-One should be able to open this project by installing any version of Godot beyond version 4.6: https://godotengine.org/.
+One should be able to open this project by installing any .NET version of Godot beyond version 4.6: https://godotengine.org/.
 However, it is recommended that one uses Godot 4.6 or 4.7 since later versions may cause issues.
 This will allow one to play the game alongside easily view the assets and such.
 If one simply wants to play the game without the need of installing Godot,
